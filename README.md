@@ -9,19 +9,43 @@ Artificial Intelligence Applications student at UMGC with a 4.0 GPA, holding a B
 * AI Foundations Certificate — Completed
 * Bachelor of Arts in English
 * 20 years of leadership experience in retail operations, inventory optimization, and team development
-* Building practical AI solutions through machine learning, automation, and prompt engineering
+* Building practical AI-driven solutions through machine learning, predictive analytics, workflow automation, and prompt engineering.
 
-## Technical Skills
+
+
+* ## Technical Skills
+
+**Programming & Analytics**
 
 * Python
 * SQL
 * Excel
+
+**Data Visualization**
+
 * Tableau
 * Power BI
-* Machine Learning
+
+**Machine Learning**
+
+* Logistic Regression
+* Bayesian Classification
+* Clustering
+* Decision Trees
+
+**AI & Prompt Engineering**
+
 * Prompt Engineering
+* LLM Evaluation
+* AI Workflow Design
+* Generative AI Optimization
+
+**Data Skills**
+
 * Data Visualization
 * Predictive Analytics
+* Data Preprocessing
+* Feature Selection
 
 ## Current Projects
 
