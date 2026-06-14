@@ -1,19 +1,19 @@
 # Hi, I'm Matthew Kolonich
 
-Artificial Intelligence Applications student at UMGC with a 4.0 GPA, holding a B.A. in English and transitioning from 20 years of management and operational leadership into AI, machine learning, prompt engineering, and data analytics.
+Artificial Intelligence Applications student at UMGC with a 4.0 GPA, holding a B.A. in English and leveraging 20 years of management and operational leadership into AI, machine learning, prompt engineering, and data analytics.
 
 ## About Me
 
 * Bachelor of Science in Artificial Intelligence: AI Applications (Expected October 2026)
+* Bachelor of Arts in English
 * Data Analytics Certificate — Completed
 * AI Foundations Certificate — Completed
-* Bachelor of Arts in English
 * 20 years of leadership experience in retail operations, inventory optimization, and team development
 * Building practical AI-driven solutions through machine learning, predictive analytics, workflow automation, and prompt engineering.
 
 
 
-* ## Technical Skills
+ ## Technical Skills
 
 **Programming & Analytics**
 
